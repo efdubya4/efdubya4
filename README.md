@@ -7,6 +7,10 @@
   <img src="./assets/banner.png" alt="Foster Ware IV — Founder · Cybersecurity · AI/ML · Howard CS '26" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="./assets/headshot.jpg" alt="Foster Ware IV" width="140" height="140" style="border-radius:50%;"/>
+</p>
+
 <h1 align="center">Foster Ware IV</h1>
 
 <p align="center">
@@ -93,10 +97,10 @@ $ whoami --verbose
 | Role | Org | Focus |
 | --- | --- | --- |
 | **Founder & CEO** *(Summer 2025–present)* | [Oval Technology Solutions](https://github.com/efdubya4) | Web development, cybersecurity consulting, AI solutions for enterprise clients — concurrently **cybersecurity infrastructure contractor** at Cyberup24 |
-| **Web Dev / Test Engineer Intern** | Dewberry — Resilience Solutions | Built a Benefit Cost Analysis tool for natural hazard mitigation; tested flood forecasting software beta releases <!-- TODO: dates/location if adding from resume --> |
-| **Power Delivery Technology Intern** | Alabama Power Company | RSA rollout project; FISR system data work <!-- TODO: dates --> |
-| **Data / Validation** | Bitmari (Harare, Zimbabwe) | Data validation for the ILoveBlackPeople Safe Places app and Greenbook API <!-- TODO: dates --> |
-| **QA + Teaching** *(2021–2022)* | Apple × Ed Farm | QA for Ed Farm Learn's launch; taught Swift Code to middle and high schoolers |
+| **Web Dev / Test Engineer Intern** *(Summer–Fall 2024)* | Dewberry — Resilience Solutions | Built a Benefit Cost Analysis tool for natural hazard mitigation; tested flood forecasting software beta releases |
+| **Data / Validation** *(Summer–Fall 2023)* | Bitmari (Harare, Zimbabwe) | Data validation for the ILoveBlackPeople Safe Places app and Greenbook API |
+| **Power Delivery Technology Intern** *(Summer 2023)* | Alabama Power Company | RSA rollout project; FISR system data work |
+| **QA + Teaching** *(Summers 2021 & 2022)* | Apple × Ed Farm | QA for Ed Farm Learn's launch; taught Swift Code to middle and high schoolers |
 
 > Full timeline + detail: **[Academic CV site](https://efdubya4.github.io/academic-cv/)**
 
@@ -147,7 +151,7 @@ $ whoami --verbose
 - **IEEE** member · **NSBE** member · Engineering Mentor at Howard's College of Engineering and Architecture
 - Regional Teen President — Jack and Jill of America · Kappa League President / Junior Advisor
 - **Howard Alternative Spring Break** — youth empowerment & gun violence prevention (Milwaukee)
-- **1st place**, Cyberthon Pensacola (high school division — cybersecurity / threat detection)
+- **1st place**, Cyberthon Pensacola (Fall 2018, high school division — cybersecurity / threat detection)
 
 Building things that serve real communities: HBCU STEM mentorship, youth empowerment, and safety-focused applications — with a **security-first** engineering posture.
 
