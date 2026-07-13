@@ -41,13 +41,14 @@ $ whoami --verbose
 ```
 
 - 🔭 **Currently building** secure infrastructure and AI-powered solutions at Oval Technology Solutions
-- 🛡️ **Also operating as** a cybersecurity infrastructure contractor (Cyberup24) — DevSecOps practices, enterprise compliance
+- 🛡️ **Previously** cybersecurity infrastructure contractor at Cyberup24 (Summer 2025) — DevSecOps practices, enterprise compliance
 - 🌱 **Learning / refining:** applied AI/ML, cloud security architecture
 - 👯 **Looking to collaborate on:** AI-powered developer tools, civic/health tech, security tooling
 - 🤔 **Looking for help with:** <!-- TODO: add if you want recruiter/open-source ask --><!-- e.g. early design partners for Oval -->
 - 🎓 **CS @ Howard University**, College of Engineering and Architecture, Class of 2026
 - 🌍 **Worked across** D.C., Virginia, Alabama, and Zimbabwe
 - ⚡ **Fun fact:** <!-- TODO: optional one-liner -->
+- 📄 **Resume:** [Download CV (PDF)](./assets/resume.pdf)
 
 ---
 
@@ -96,7 +97,8 @@ $ whoami --verbose
 
 | Role | Org | Focus |
 | --- | --- | --- |
-| **Founder & CEO** *(Summer 2025–present)* | [Oval Technology Solutions](https://github.com/efdubya4) | Web development, cybersecurity consulting, AI solutions for enterprise clients — concurrently **cybersecurity infrastructure contractor** at Cyberup24 |
+| **Founder & CEO** *(Summer 2025–present)* | [Oval Technology Solutions](https://github.com/efdubya4) | Web development, cybersecurity consulting, AI solutions for enterprise clients |
+| **Cybersecurity Infrastructure Contractor** *(Summer 2025)* | Cyberup24 | DevSecOps practices and enterprise compliance — contract ended after Summer 2025 |
 | **Web Dev / Test Engineer Intern** *(Summer–Fall 2024)* | Dewberry — Resilience Solutions | Built a Benefit Cost Analysis tool for natural hazard mitigation; tested flood forecasting software beta releases |
 | **Data / Validation** *(Summer–Fall 2023)* | Bitmari (Harare, Zimbabwe) | Data validation for the ILoveBlackPeople Safe Places app and Greenbook API |
 | **Power Delivery Technology Intern** *(Summer 2023)* | Alabama Power Company | RSA rollout project; FISR system data work |
